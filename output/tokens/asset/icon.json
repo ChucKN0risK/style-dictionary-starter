@@ -1,0 +1,130 @@
+{
+  "asset": {
+    "icon": {
+      "xCircleSolid": { "value": "../../assets/vectors/x-circle-solid.svg" },
+      "xCircleOutline": {
+        "value": "../../assets/vectors/x-circle-outline.svg"
+      },
+      "x": { "value": "../../assets/vectors/x.svg" },
+      "volumeUp": { "value": "../../assets/vectors/volume-up.svg" },
+      "volumeOff": { "value": "../../assets/vectors/volume-off.svg" },
+      "users": { "value": "../../assets/vectors/users.svg" },
+      "userGroup": { "value": "../../assets/vectors/user-group.svg" },
+      "user": { "value": "../../assets/vectors/user.svg" },
+      "translate": { "value": "../../assets/vectors/translate.svg" },
+      "tag": { "value": "../../assets/vectors/tag.svg" },
+      "switchVertical": { "value": "../../assets/vectors/switch-vertical.svg" },
+      "switchHorizontal": {
+        "value": "../../assets/vectors/switch-horizontal.svg"
+      },
+      "shieldExclamation": {
+        "value": "../../assets/vectors/shield-exclamation.svg"
+      },
+      "shieldCheck": { "value": "../../assets/vectors/shield-check.svg" },
+      "share": { "value": "../../assets/vectors/share.svg" },
+      "scale": { "value": "../../assets/vectors/scale.svg" },
+      "refresh": { "value": "../../assets/vectors/refresh.svg" },
+      "questionMarkCircle": {
+        "value": "../../assets/vectors/question-mark-circle.svg"
+      },
+      "plusCircleSolid": {
+        "value": "../../assets/vectors/plus-circle-solid.svg"
+      },
+      "plusCircleOutline": {
+        "value": "../../assets/vectors/plus-circle-outline.svg"
+      },
+      "plus": { "value": "../../assets/vectors/plus.svg" },
+      "photograph": { "value": "../../assets/vectors/photograph.svg" },
+      "phoneOutgoing": { "value": "../../assets/vectors/phone-outgoing.svg" },
+      "phoneIncoming": { "value": "../../assets/vectors/phone-incoming.svg" },
+      "phone": { "value": "../../assets/vectors/phone.svg" },
+      "pencilAlt": { "value": "../../assets/vectors/pencil-alt.svg" },
+      "pencil": { "value": "../../assets/vectors/pencil.svg" },
+      "officeBuilding": { "value": "../../assets/vectors/office-building.svg" },
+      "minusCircleSolid": {
+        "value": "../../assets/vectors/minus-circle-solid.svg"
+      },
+      "minusCircleOutline": {
+        "value": "../../assets/vectors/minus-circle-outline.svg"
+      },
+      "menuAlt4": { "value": "../../assets/vectors/menu-alt-4.svg" },
+      "menuAlt3": { "value": "../../assets/vectors/menu-alt-3.svg" },
+      "menuAlt2": { "value": "../../assets/vectors/menu-alt-2.svg" },
+      "menuAlt1": { "value": "../../assets/vectors/menu-alt-1.svg" },
+      "menu": { "value": "../../assets/vectors/menu.svg" },
+      "mail": { "value": "../../assets/vectors/mail.svg" },
+      "locationMarker": { "value": "../../assets/vectors/location-marker.svg" },
+      "link": { "value": "../../assets/vectors/link.svg" },
+      "inboxIn": { "value": "../../assets/vectors/inbox-in.svg" },
+      "inbox": { "value": "../../assets/vectors/inbox.svg" },
+      "home": { "value": "../../assets/vectors/home.svg" },
+      "heart": { "value": "../../assets/vectors/heart.svg" },
+      "globeAlt": { "value": "../../assets/vectors/globe-alt.svg" },
+      "globe": { "value": "../../assets/vectors/globe.svg" },
+      "eye": { "value": "../../assets/vectors/eye.svg" },
+      "exclamationCircleSolid": {
+        "value": "../../assets/vectors/exclamation-circle-solid.svg"
+      },
+      "exclamationCircleOutline": {
+        "value": "../../assets/vectors/exclamation-circle-outline.svg"
+      },
+      "exclamation": { "value": "../../assets/vectors/exclamation.svg" },
+      "duplicate": { "value": "../../assets/vectors/duplicate.svg" },
+      "documentRemove": { "value": "../../assets/vectors/document-remove.svg" },
+      "documentDownload": {
+        "value": "../../assets/vectors/document-download.svg"
+      },
+      "documentAdd": { "value": "../../assets/vectors/document-add.svg" },
+      "document": { "value": "../../assets/vectors/document.svg" },
+      "colorSwatch": { "value": "../../assets/vectors/color-swatch.svg" },
+      "cog": { "value": "../../assets/vectors/cog.svg" },
+      "cloudUpload": { "value": "../../assets/vectors/cloud-upload.svg" },
+      "cloudDownload": { "value": "../../assets/vectors/cloud-download.svg" },
+      "clock": { "value": "../../assets/vectors/clock.svg" },
+      "checkCircleSolid": {
+        "value": "../../assets/vectors/check-circle-solid.svg"
+      },
+      "checkCircleOutline": {
+        "value": "../../assets/vectors/check-circle-outline.svg"
+      },
+      "check": { "value": "../../assets/vectors/check.svg" },
+      "chatAltSolid": { "value": "../../assets/vectors/chat-alt-solid.svg" },
+      "chatAltOutline": {
+        "value": "../../assets/vectors/chat-alt-outline.svg"
+      },
+      "chartPie": { "value": "../../assets/vectors/chart-pie.svg" },
+      "cash": { "value": "../../assets/vectors/cash.svg" },
+      "camera": { "value": "../../assets/vectors/camera.svg" },
+      "calendar": { "value": "../../assets/vectors/calendar.svg" },
+      "briefcase": { "value": "../../assets/vectors/briefcase.svg" },
+      "bookmark": { "value": "../../assets/vectors/bookmark.svg" },
+      "bell": { "value": "../../assets/vectors/bell.svg" },
+      "arrowCircleUpSolid": {
+        "value": "../../assets/vectors/arrow-circle-up-solid.svg"
+      },
+      "arrowCircleUpOutline": {
+        "value": "../../assets/vectors/arrow-circle-up-outline.svg"
+      },
+      "arrowCircleRightSolid": {
+        "value": "../../assets/vectors/arrow-circle-right-solid.svg"
+      },
+      "arrowCircleRightOutline": {
+        "value": "../../assets/vectors/arrow-circle-right-outline.svg"
+      },
+      "arrowCircleLeftSolid": {
+        "value": "../../assets/vectors/arrow-circle-left-solid.svg"
+      },
+      "arrowCircleLeftOutline": {
+        "value": "../../assets/vectors/arrow-circle-left-outline.svg"
+      },
+      "arrowCircleDownSolid": {
+        "value": "../../assets/vectors/arrow-circle-down-solid.svg"
+      },
+      "arrowCircleDownOutline": {
+        "value": "../../assets/vectors/arrow-circle-down-outline.svg"
+      },
+      "archive": { "value": "../../assets/vectors/archive.svg" },
+      "adjustments": { "value": "../../assets/vectors/adjustments.svg" }
+    }
+  }
+}

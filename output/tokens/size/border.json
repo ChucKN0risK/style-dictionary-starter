@@ -1,0 +1,9 @@
+{
+  "size": {
+    "border": {
+      "borderSolid": { "value": "1px" },
+      "borderGradient": { "value": "1px" },
+      "borderDashed": { "value": "1px" }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "asset": {
+    "font": {
+      "numansRegular": {
+        "name": { "value": "numans-regular" },
+        "woff": { "value": "../../assets/fonts/numans-regular.woff" },
+        "woff2": { "value": "../../assets/fonts/numans-regular.woff2" }
+      },
+      "interSemiBold": {
+        "name": { "value": "inter-semi-bold" },
+        "woff": { "value": "../../assets/fonts/inter-semi-bold.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-semi-bold.woff2" }
+      },
+      "interRegular": {
+        "name": { "value": "inter-regular" },
+        "woff": { "value": "../../assets/fonts/inter-regular.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-regular.woff2" }
+      },
+      "interMedium": {
+        "name": { "value": "inter-medium" },
+        "woff": { "value": "../../assets/fonts/inter-medium.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-medium.woff2" }
+      }
+    }
+  }
+}

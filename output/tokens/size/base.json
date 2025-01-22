@@ -1,0 +1,21 @@
+{
+  "size": {
+    "base": {
+      "borderRadiusSmall": { "value": "4px" },
+      "borderRadiusMedium": { "value": "8px" },
+      "borderRadiusLarge": { "value": "12px" },
+      "baseSpace9": { "value": "48px" },
+      "baseSpace8": { "value": "40px" },
+      "baseSpace7": { "value": "32px" },
+      "baseSpace6": { "value": "24px" },
+      "baseSpace5": { "value": "20px" },
+      "baseSpace4": { "value": "16px" },
+      "baseSpace3": { "value": "12px" },
+      "baseSpace2": { "value": "8px" },
+      "baseSpace12": { "value": "80px" },
+      "baseSpace11": { "value": "64px" },
+      "baseSpace10": { "value": "56px" },
+      "baseSpace1": { "value": "4px" }
+    }
+  }
+}

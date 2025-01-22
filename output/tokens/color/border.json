@@ -1,0 +1,8 @@
+{
+  "color": {
+    "border": {
+      "borderSolid": { "value": "#000000ff" },
+      "borderDashed": { "value": "#000000ff" }
+    }
+  }
+}

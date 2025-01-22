@@ -1,0 +1,71 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --size-base-border-radius-small: 4px;
+  --size-base-border-radius-medium: 8px;
+  --size-base-border-radius-large: 12px;
+  --size-base-base-space9: 48px;
+  --size-base-base-space8: 40px;
+  --size-base-base-space7: 32px;
+  --size-base-base-space6: 24px;
+  --size-base-base-space5: 20px;
+  --size-base-base-space4: 16px;
+  --size-base-base-space3: 12px;
+  --size-base-base-space2: 8px;
+  --size-base-base-space12: 80px;
+  --size-base-base-space11: 64px;
+  --size-base-base-space10: 56px;
+  --size-base-base-space1: 4px;
+  --size-border-border-solid: 1px;
+  --size-border-border-gradient: 1px;
+  --size-border-border-dashed: 1px;
+  --size-font-subtitle: 18px;
+  --size-font-section: 12px;
+  --size-font-heading2: 24px;
+  --size-font-heading1: 32px;
+  --size-font-code: 14px;
+  --size-font-body-s: 14px;
+  --size-font-body-m: 14px;
+  --size-font-body-l: 14px;
+  --size-letter-spacing-section: 0.5px;
+  --size-line-height-subtitle: 32px;
+  --size-line-height-section: 20px;
+  --size-line-height-heading2: 32px;
+  --size-line-height-heading1: 40px;
+  --size-line-height-code: 20px;
+  --size-line-height-body-s: 20px;
+  --size-line-height-body-m: 20px;
+  --size-line-height-body-l: 20px;
+  --size-shadow-shadow-xs-0-offset-y: 1px;
+  --size-shadow-shadow-xs-0-blur: 2px;
+  --size-shadow-shadow-xl-0-offset-y: 8px;
+  --size-shadow-shadow-xl-0-blur: 10px;
+  --size-shadow-shadow-xl-0-spread: -6px;
+  --size-shadow-shadow-xl-1-offset-y: 20px;
+  --size-shadow-shadow-xl-1-blur: 25px;
+  --size-shadow-shadow-xl-1-spread: -5px;
+  --size-shadow-shadow-sm-0-offset-y: 1px;
+  --size-shadow-shadow-sm-0-blur: 2px;
+  --size-shadow-shadow-sm-0-spread: -1px;
+  --size-shadow-shadow-sm-1-offset-y: 1px;
+  --size-shadow-shadow-sm-1-blur: 3px;
+  --size-shadow-shadow-md-0-offset-y: 2px;
+  --size-shadow-shadow-md-0-blur: 4px;
+  --size-shadow-shadow-md-0-spread: -2px;
+  --size-shadow-shadow-md-1-offset-y: 4px;
+  --size-shadow-shadow-md-1-blur: 6px;
+  --size-shadow-shadow-md-1-spread: -1px;
+  --size-shadow-shadow-lg-0-offset-y: 4px;
+  --size-shadow-shadow-lg-0-blur: 6px;
+  --size-shadow-shadow-lg-0-spread: -4px;
+  --size-shadow-shadow-lg-1-offset-y: 10px;
+  --size-shadow-shadow-lg-1-blur: 15px;
+  --size-shadow-shadow-lg-1-spread: -3px;
+  --size-shadow-shadow-inner-0-offset-y: 2px;
+  --size-shadow-shadow-inner-0-blur: 4px;
+  --size-shadow-shadow2-xl-0-offset-y: 25px;
+  --size-shadow-shadow2-xl-0-blur: 50px;
+  --size-shadow-shadow2-xl-0-spread: -12px;
+}

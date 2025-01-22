@@ -1,0 +1,15 @@
+{
+  "opacity": {
+    "base": {
+      "opacity90": { "value": "0.9" },
+      "opacity80": { "value": "0.8" },
+      "opacity70": { "value": "0.7" },
+      "opacity60": { "value": "0.6" },
+      "opacity50": { "value": "0.5" },
+      "opacity40": { "value": "0.4" },
+      "opacity30": { "value": "0.3" },
+      "opacity20": { "value": "0.2" },
+      "opacity10": { "value": "0.1" }
+    }
+  }
+}
