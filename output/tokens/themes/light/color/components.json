@@ -1,0 +1,24 @@
+{
+  "color": {
+    "button": {
+      "bg-primary-default": { "value": "{color.primary.app-base}" },
+      "bg-primary-hover": { "value": "{color.primary.app-dark}" },
+      "bg-primary-active": { "value": "{color.primary.app-light}" },
+      "bg-secondary-default": { "value": "{color.neutral.0}" },
+      "bg-secondary-hover": { "value": "{color.neutral.1}" },
+      "bg-secondary-active": { "value": "{color.neutral.2}" },
+      "bg-destructive-default": { "value": "{color.label.red-base}" },
+      "bg-destructive-hover": { "value": "{color.label.red-dark}" },
+      "bg-destructive-active": { "value": "{color.label.red-light}" },
+      "text-destructive-hover": { "value": "{color.label.red-lighter}" },
+      "bg-warning-default": { "value": "{color.label.orange-lighter}" },
+      "bg-warning-active": { "value": "{color.label.orange-light}" },
+      "border-primary-default": { "value": "{color.primary.app-dark}" },
+      "border-primary-focused": { "value": "{color.primary.app-lighter}" },
+      "border-secondary-default": { "value": "{color.neutral.2}" },
+      "border-destructive-default": { "value": "{color.label.red-dark}" },
+      "border-destructive-focused": { "value": "{color.label.red-lighter}" },
+      "border-warning-hover": { "value": "{color.label.orange-light}" }
+    }
+  }
+}

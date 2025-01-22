@@ -1,0 +1,10 @@
+{
+  "dimensions": {
+    "spacings": {
+      "spacing-01": { "value": "{dimensions.base.dimension-04}" },
+      "spacing-02": { "value": "{dimensions.base.dimension-08}" },
+      "spacing-03": { "value": "{dimensions.base.dimension-12}" },
+      "spacing-04": { "value": "{dimensions.base.dimension-16}" }
+    }
+  }
+}

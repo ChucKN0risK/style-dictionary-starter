@@ -1,0 +1,34 @@
+{
+  "color": {
+    "neutral": {
+      "0": { "value": "#ffffffff" },
+      "1": { "value": "#f6f8fbff" },
+      "2": { "value": "#dee4edff" },
+      "3": { "value": "#ccd5e1ff" },
+      "4": { "value": "#b3c0d0ff" },
+      "5": { "value": "#788ba5ff" },
+      "6": { "value": "#5c6f8aff" },
+      "7": { "value": "#323b48ff" },
+      "8": { "value": "#181e25ff" }
+    },
+    "label": {
+      "red-dark": { "value": "#db262cff" },
+      "red-base": { "value": "#f5483fff" },
+      "red-light": { "value": "#ff715cff" },
+      "red-lighter": { "value": "#fee4e2ff" },
+      "orange-base": { "value": "#ff8e05ff" },
+      "orange-light": { "value": "#ffdfb8ff" },
+      "orange-lighter": { "value": "#fff4e6ff" },
+      "green-base": { "value": "#58cd52ff" },
+      "green-lighter": { "value": "#e6f7e5ff" },
+      "blue-base": { "value": "#117df9ff" },
+      "blue-lighter": { "value": "#dbecfeff" }
+    },
+    "primary": {
+      "app-dark": { "value": "#4938c3ff" },
+      "app-base": { "value": "#624de3ff" },
+      "app-light": { "value": "#8a78eeff" },
+      "app-lighter": { "value": "#e7e4fbff" }
+    }
+  }
+}

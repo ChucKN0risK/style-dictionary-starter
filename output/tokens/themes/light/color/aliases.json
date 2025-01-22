@@ -1,0 +1,52 @@
+{
+  "color": {
+    "icon": {
+      "error": { "value": "{color.label.red-base}" },
+      "warning": { "value": "{color.label.orange-base}" },
+      "success": { "value": "{color.label.green-base}" },
+      "info": { "value": "{color.label.blue-base}" },
+      "on-colored-bg": { "value": "{color.neutral.1}" },
+      "disabled": { "value": "{color.neutral.3}" },
+      "default": { "value": "{color.neutral.6}" },
+      "selected": { "value": "{color.primary.app-base}" }
+    },
+    "text": {
+      "error": { "value": "{color.label.red-base}" },
+      "warning": { "value": "{color.label.orange-base}" },
+      "success": { "value": "{color.label.green-base}" },
+      "info": { "value": "{color.label.blue-base}" },
+      "active": { "value": "{color.primary.app-base}" },
+      "on-colored-bg": { "value": "{color.neutral.1}" },
+      "low-emphasis": { "value": "{color.neutral.6}" },
+      "medium-emphasis": { "value": "{color.neutral.7}" },
+      "high-emphasis": { "value": "{color.neutral.8}" }
+    },
+    "border": {
+      "lightest": { "value": "{color.neutral.2}" },
+      "darkest": { "value": "{color.neutral.6}" },
+      "active": { "value": "{color.primary.app-base}" },
+      "error": { "value": "{color.label.red-base}" }
+    },
+    "surface": {
+      "surface-1": { "value": "{color.neutral.0}" },
+      "surface-2": { "value": "{color.neutral.1}" },
+      "surface-3": { "value": "{color.neutral.2}" },
+      "overlay": { "value": "{color.neutral.8}" }
+    },
+    "component": {
+      "parent": { "value": "{color.neutral.0}" },
+      "child": { "value": "{color.neutral.1}" },
+      "disabled": { "value": "{color.neutral.1}" },
+      "tooltip": { "value": "{color.neutral.8}" },
+      "hover-on-lightest": { "value": "{color.neutral.1}" },
+      "hover-on-darkest": { "value": "{color.neutral.2}" },
+      "elevated-element": { "value": "{color.neutral.0}" },
+      "input": { "value": "{color.neutral.0}" },
+      "info": { "value": "{color.label.blue-lighter}" },
+      "success": { "value": "{color.label.green-lighter}" },
+      "warning": { "value": "{color.label.orange-lighter}" },
+      "error": { "value": "{color.label.red-lighter}" },
+      "highlight": { "value": "{color.primary.app-lighter}" }
+    }
+  }
+}

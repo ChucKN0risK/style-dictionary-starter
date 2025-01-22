@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 22 Jan 2025 16:36:43 GMT
+ */
+
+.my-breakpoint {
+  --dimensions-base-dimension-32: 32px;
+  --dimensions-base-dimension-24: 24px;
+  --dimensions-base-dimension-16: 16px;
+  --dimensions-base-dimension-12: 12px;
+  --dimensions-base-dimension-08: 8px;
+  --dimensions-base-dimension-04: 4px;
+  --dimensions-base-dimension-02: 2px;
+  --dimensions-spacings-spacing-04: var(--dimensions-base-dimension-16);
+  --dimensions-spacings-spacing-03: var(--dimensions-base-dimension-12);
+  --dimensions-spacings-spacing-02: var(--dimensions-base-dimension-04);
+  --dimensions-spacings-spacing-01: var(--dimensions-base-dimension-02);
+  --dimensions-base-radius-02: var(--dimensions-base-dimension-08);
+  --dimensions-base-radius-01: var(--dimensions-base-dimension-02);
+}

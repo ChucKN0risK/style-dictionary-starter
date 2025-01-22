@@ -1,0 +1,87 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 22 Jan 2025 16:36:43 GMT
+ */
+
+[data-theme="dark"] {
+  --color-primary-app-lighter: #362a79;
+  --color-primary-app-light: #5443bc;
+  --color-primary-app-base: #624de3;
+  --color-primary-app-dark: #9a90df;
+  --color-label-blue-lighter: #293443;
+  --color-label-blue-base: #60a8fa;
+  --color-label-green-lighter: #2d3c30;
+  --color-label-green-base: #7dd879;
+  --color-label-orange-lighter: #413324;
+  --color-label-orange-light: #69523a;
+  --color-label-orange-base: #ff9e29;
+  --color-label-red-lighter: #3c2627;
+  --color-label-red-light: #b7403a;
+  --color-label-red-base: #dd4840;
+  --color-label-red-dark: #e36963;
+  --color-neutral-8: #ffffff;
+  --color-neutral-7: #f4f5f5;
+  --color-neutral-6: #aeb2b7;
+  --color-neutral-5: #787e87;
+  --color-neutral-4: #5c6066;
+  --color-neutral-3: #44474b;
+  --color-neutral-2: #313235;
+  --color-neutral-1: #1f2023;
+  --color-neutral-0: #1f2023;
+  --color-button-border-warning-hover: var(--color-label-orange-light);
+  --color-button-border-destructive-focused: var(--color-label-red-lighter);
+  --color-button-border-destructive-default: var(--color-label-red-dark);
+  --color-button-border-secondary-default: var(--color-neutral-2);
+  --color-button-border-primary-focused: var(--color-primary-app-lighter);
+  --color-button-border-primary-default: var(--color-primary-app-dark);
+  --color-button-bg-warning-active: var(--color-label-orange-light);
+  --color-button-bg-warning-default: var(--color-label-orange-lighter);
+  --color-button-text-destructive-hover: var(--color-label-red-lighter);
+  --color-button-bg-destructive-active: var(--color-label-red-light);
+  --color-button-bg-destructive-hover: var(--color-label-red-dark);
+  --color-button-bg-destructive-default: var(--color-label-red-base);
+  --color-button-bg-secondary-active: var(--color-neutral-2);
+  --color-button-bg-secondary-hover: var(--color-neutral-1);
+  --color-button-bg-secondary-default: var(--color-neutral-0);
+  --color-button-bg-primary-active: var(--color-primary-app-light);
+  --color-button-bg-primary-hover: var(--color-primary-app-dark);
+  --color-button-bg-primary-default: var(--color-primary-app-base);
+  --color-component-highlight: var(--color-primary-app-lighter);
+  --color-component-error: var(--color-label-red-lighter);
+  --color-component-warning: var(--color-label-orange-lighter);
+  --color-component-success: var(--color-label-green-lighter);
+  --color-component-info: var(--color-label-blue-lighter);
+  --color-component-input: var(--color-neutral-0);
+  --color-component-elevated-element: var(--color-neutral-0);
+  --color-component-hover-on-darkest: var(--color-neutral-2);
+  --color-component-hover-on-lightest: var(--color-neutral-1);
+  --color-component-tooltip: var(--color-neutral-8);
+  --color-component-disabled: var(--color-neutral-1);
+  --color-component-child: var(--color-neutral-1);
+  --color-component-parent: var(--color-neutral-0);
+  --color-surface-overlay: var(--color-neutral-8);
+  --color-surface-surface-3: var(--color-neutral-2);
+  --color-surface-surface-2: var(--color-neutral-1);
+  --color-surface-surface-1: var(--color-neutral-0);
+  --color-border-error: var(--color-label-red-base);
+  --color-border-active: var(--color-primary-app-base);
+  --color-border-darkest: var(--color-neutral-6);
+  --color-border-lightest: var(--color-neutral-2);
+  --color-text-high-emphasis: var(--color-neutral-8);
+  --color-text-medium-emphasis: var(--color-neutral-7);
+  --color-text-low-emphasis: var(--color-neutral-6);
+  --color-text-on-colored-bg: var(--color-neutral-1);
+  --color-text-active: var(--color-primary-app-base);
+  --color-text-info: var(--color-label-blue-base);
+  --color-text-success: var(--color-label-green-base);
+  --color-text-warning: var(--color-label-orange-base);
+  --color-text-error: var(--color-label-red-base);
+  --color-icon-selected: var(--color-primary-app-base);
+  --color-icon-default: var(--color-neutral-6);
+  --color-icon-disabled: var(--color-neutral-3);
+  --color-icon-on-colored-bg: var(--color-neutral-1);
+  --color-icon-info: var(--color-label-blue-base);
+  --color-icon-success: var(--color-label-green-base);
+  --color-icon-warning: var(--color-label-orange-base);
+  --color-icon-error: var(--color-label-red-base);
+}

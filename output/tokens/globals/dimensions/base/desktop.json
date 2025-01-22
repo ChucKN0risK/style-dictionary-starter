@@ -1,0 +1,13 @@
+{
+  "dimensions": {
+    "base": {
+      "dimension-02": { "value": "2px" },
+      "dimension-04": { "value": "4px" },
+      "dimension-08": { "value": "8px" },
+      "dimension-12": { "value": "12px" },
+      "dimension-16": { "value": "16px" },
+      "dimension-24": { "value": "24px" },
+      "dimension-32": { "value": "32px" }
+    }
+  }
+}

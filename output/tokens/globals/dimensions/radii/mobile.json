@@ -1,0 +1,8 @@
+{
+  "dimensions": {
+    "base": {
+      "radius-01": { "value": "{dimensions.base.dimension-02}" },
+      "radius-02": { "value": "{dimensions.base.dimension-08}" }
+    }
+  }
+}
